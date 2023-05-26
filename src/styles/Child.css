@@ -16,3 +16,6 @@
     color: white;
     text-align: center;
 }
+.holder:hover{
+    cursor: pointer;
+}
